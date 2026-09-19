@@ -223,4 +223,4 @@ Pokki is offered as a complete free version with all features and updates includ
 Experience the new way to navigate Windows 8 with Pokki! Download now and enjoy all features for free!
 
 ---
-**Last updated:** 2026-09-19 13:49:36 UTC
+**Last updated:** 2026-09-19 17:07:24 UTC
